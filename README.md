@@ -6,4 +6,4 @@ int GetNextX(int next_Y) - returns next X-coordinate of line based on current Y-
 int CalculateLine() - calculate array of points based on starting coordinates and end coordinates.
 std::vector<TPoint> *GetAllPointsOfLine() - return pointer to std::vector<TPoint> that contain array of points created by CalculateLine().
 
-![sample image](./sample.png?raw=true "Demo form that illustrated work") 
+![sample image](./sample.jpg?raw=true "Demo form that illustrated work") 
